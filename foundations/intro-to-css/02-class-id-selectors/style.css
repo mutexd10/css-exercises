@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.danger {
+    background-color: #b63c79;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
